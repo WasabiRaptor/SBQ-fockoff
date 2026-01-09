@@ -137,7 +137,7 @@
 
 	"sbqCompatible" : true,
 	"sbqTFAny" : false,
-	"charCreationPatch" : true,
+	"charCreationPatch" : false,
 	// custom animation parameters for this species
 	"baseColorPalette": {
 		"primary": [
