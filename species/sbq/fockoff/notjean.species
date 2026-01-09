@@ -388,8 +388,8 @@
 			]
 		},
 
-		"sbq/infused/bellyQuadruped.png": {
-			"sourceImage": "/humanoid/sbq/quadruped/belly/default.png",
+		"sbq/infused/quadruped/belly.png": {
+			"sourceImage": "/humanoid/wr/quadruped/belly/default.png",
 			"remapDirectives": [
 				"?replace;00adba=bc1002",
 				[
@@ -398,8 +398,8 @@
 				]
 			]
 		},
-		"sbq/infused/bellyQuadruped_noNavel.png": {
-			"sourceImage": "/humanoid/sbq/quadruped/belly/default.png",
+		"sbq/infused/quadruped/belly_noNavel.png": {
+			"sourceImage": "/humanoid/wr/quadruped/belly/default.png",
 			"remapDirectives": [
 				"?replace;00adba=eb3629",
 				[
